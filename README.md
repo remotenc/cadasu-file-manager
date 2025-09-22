@@ -1,4 +1,4 @@
-# Cadasu Local
+# Cadasu AutoUpload
 
 自動監控資料夾並上傳至 CADASU 網站 (app.cadasu.com)
 
