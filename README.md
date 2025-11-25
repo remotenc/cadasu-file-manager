@@ -1,10 +1,10 @@
-# Cadasu AutoUpload
+# Cadasu File Manager
 
-自動監控資料夾並上傳至 CADASU 網站 (app.cadasu.com)
+檔案管理工具
 
 ## 下載與安裝 Download & Installation
 
-1. 前往 [Releases](https://github.com/remotenc/cadasu-autoupload/releases) 下載最新版 `.exe`
+1. 前往 [Releases](https://github.com/remotenc/cadasu-file-manager/releases) 下載最新版 `.exe`
 2. 執行安裝程式
 3. 完成安裝
 
